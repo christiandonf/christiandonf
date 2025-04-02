@@ -2,11 +2,11 @@
 ## Nice to meet you!
 ## I’m currently working on [ComedyHub App](https://thecomedyhub.com.br)
 ## My Front-End skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,npm,tailwind)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,npm,tailwind)](https://skillicons.dev)
 ## My Back-End skills:
-[![My Skills](https://skillicons.dev/icons?i=cs,bash,linux,docker,redis,postgres,nginx,git,github)
+[![My Skills](https://skillicons.dev/icons?i=cs,bash,linux,docker,redis,postgres,nginx,git,github)](https://skillicons.dev)
 ## Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins,kubernetes,terraform)
+[![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins,kubernetes,terraform)](https://skillicons.dev)
 ## You can reach me by e-mail: christian.nascimento.falcao@gmail.com
 ## This is my current [Portfolio](https://christiandonf.github.io/Portifolio-Christian-Falcao/)
 
