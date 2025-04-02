@@ -1,4 +1,4 @@
-# HEllo there 👋, My name is Christian and I'm a FullStack Software Engineer from Brazil
+# Hello there 👋, My name is Christian and I'm a FullStack Software Engineer from Brazil
 ## Nice to meet you!
 ## I’m currently working on [ComedyHub App](https://thecomedyhub.com.br)
 ## My Front-End skills:
